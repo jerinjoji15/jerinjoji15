@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jerinjoji15
 - 👀 I’m interested in ...Coding,electronics and exploring the field of embedded System
-- 🌱 I’m currently learning ...C, C++,DSA,STM33F4 microcontroller
+- 🌱 I’m currently learning ...C, C++,DSA,STM32F4 microcontroller
 - 💞️ I’m looking to collaborate on Embedded System Projects
 - 📫 How to reach me: jerinjoimon123@gmail.com
 - 😄 Pronouns: She/Her
